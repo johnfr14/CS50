@@ -1,0 +1,23 @@
+sort1 uses: Bubble sort
+
+random50000 = 16.028s;
+reversed50000 = 13.910s;
+sorted50000 = 7.720s;
+
+How do you know?: this one has the slowest random sort but is the most usefull on numbers already sorted.
+
+sort2 uses: Merge sort
+
+random50000 = 2.703s;
+reversed50000 = 5.639s;
+sorted50000 = 7.618s;
+
+How do you know?: This one is the fastest algorythme on the random and reverted one no doubt its the merge sort.
+
+sort3 uses: Selection sort
+
+random50000 = 8.212s;
+reversed50000 = 8.106s;
+sorted50000 = 8.2s;
+
+How do you know?: This one is better than the first one but slower than the 2nd one and is always constant in each case.
